@@ -1,0 +1,10 @@
+#encoding=UTF-8
+#version=1
+org.aspectj.runtime.source,1.7.3.20130613144500-a,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.aspectj.runtime.source_1.7.3.20130613144500-a.jar,-1,false
+org.eclipse.contribution.weaving.jdt.source,2.2.3.e43x-RELEASE-20130627-0800,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.contribution.weaving.jdt.source_2.2.3.e43x-RELEASE-20130627-0800.jar,-1,false
+org.eclipse.contribution.xref.core.source,2.2.3.e43x-RELEASE-20130627-0800,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.contribution.xref.core.source_2.2.3.e43x-RELEASE-20130627-0800.jar,-1,false
+org.eclipse.contribution.xref.ui.source,2.2.3.e43x-RELEASE-20130627-0800,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.contribution.xref.ui.source_2.2.3.e43x-RELEASE-20130627-0800.jar,-1,false
+org.eclipse.equinox.weaving.aspectj.source,1.0.300.I20130319-1000,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.equinox.weaving.aspectj.source_1.0.300.I20130319-1000.jar,-1,false
+org.eclipse.equinox.weaving.caching.j9.source,1.0.200.I20130319-1000,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.equinox.weaving.caching.j9.source_1.0.200.I20130319-1000.jar,-1,false
+org.eclipse.equinox.weaving.caching.source,1.0.200.I20130319-1000,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.equinox.weaving.caching.source_1.0.200.I20130319-1000.jar,-1,false
+org.eclipse.equinox.weaving.hook.source,1.0.200.I20130319-1000,file:/Users/nisheethjoshi/Applications/springsource/sts-3.3.0.RELEASE/plugins/org.eclipse.equinox.weaving.hook.source_1.0.200.I20130319-1000.jar,-1,false

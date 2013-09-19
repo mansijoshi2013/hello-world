@@ -1,0 +1,138 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/component.xml
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .,lib/
+Built-By: mts
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.ui,org.eclipse.ui.intro,org.eclipse.core.r
+ untime,org.eclipse.equinox.p2.ui,org.eclipse.equinox.p2.ui.sdk
+Bundle-Vendor: %providerName
+Build-Jdk: 1.6.0_31
+Bundle-Version: 3.3.0.201307091644-RELEASE
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.springsource.sts;singleton:=true
+Source-Control-Identifier: 
+Archiver-Version: Plexus Archiver
+
+Name: sts32.gif
+SHA1-Digest: ngqZTCSWcONgdLq0yQkcL1ZhWMo=
+
+Name: sts128.png
+SHA1-Digest: d1g3L8/MqYyuEdZTI7BmhMq4h20=
+
+Name: content/logo_lower_right.png
+SHA1-Digest: PzCGIgSoKiF7D8FxfZjkEG8o2tU=
+
+Name: sts32.png
+SHA1-Digest: qNVtx1VhuuFKog4LZSCj5ZdytRM=
+
+Name: sts.png
+SHA1-Digest: afIcwOFBk2i5czOuc439bZYP7Zg=
+
+Name: sts_lg.gif
+SHA1-Digest: MaXnELy0+8dZLbGx05RcCWRX+kE=
+
+Name: plugin_customization.properties
+SHA1-Digest: YD7gZEVzYiOkYd7BfCANIgVRb/Q=
+
+Name: content/comparison.png
+SHA1-Digest: pDkhGnsYJj6NbZmlNHALeLgwnik=
+
+Name: content/install-extension.png
+SHA1-Digest: GTl5F+vijNKT7FqMUvuqlobcvvE=
+
+Name: feature_image.png
+SHA1-Digest: lXmA6iF64H8Pgy1KRBVGiO3snTU=
+
+Name: open_source_licenses.txt
+SHA1-Digest: fozNUiiQI54JYKgW6j8q0HIQLPk=
+
+Name: plugin_customization.ini
+SHA1-Digest: Kh0iuOCPXQDp2itTrdup1Ri+XqI=
+
+Name: org/springsource/sts/internal/splash/VersionDisplayingSplashHand
+ ler.class
+SHA1-Digest: 3T0Ns+nHiS2HQ4qG4yl/7gPeWMo=
+
+Name: about.html
+SHA1-Digest: 9gJSkirTgf8FNdSzvfO7UkM5gak=
+
+Name: introData.xml
+SHA1-Digest: hRUHRieYHfLpbEmuEpkQGBDq/fU=
+
+Name: sts48.gif
+SHA1-Digest: IMMk/rGInRtB9JB7AIxrDwmhN5E=
+
+Name: content/logo_title.png
+SHA1-Digest: 2gcrMuZSDERjpRjnS1ZDNj9JTDU=
+
+Name: content/dashboard.png
+SHA1-Digest: ZG4JFBFRnAP8V/EzzPQzt9G51Xk=
+
+Name: content/copyright.png
+SHA1-Digest: Uj5yorvYN3A1RBpgezpyKmZbnb0=
+
+Name: intro-eclipse.png
+SHA1-Digest: /phcIB3M6hWnVnHO34m6tUethaU=
+
+Name: content/welcome16.png
+SHA1-Digest: p2x2EXq24Wqcuu8PRMGP4Y9pydk=
+
+Name: content/logo_upper_left.png
+SHA1-Digest: lzDPo68Lm1Y/nlk4sUk7zBr+sK4=
+
+Name: lib/com/springsource/sts/internal/policy/NoApplyPolicy.class
+SHA1-Digest: ZvdYBWm9KeP2M5GxKuYJhy4wrbM=
+
+Name: OSGI-INF/component.xml
+SHA1-Digest: 9UEZOMzqZHOBTlTGGqQlTI39R0k=
+
+Name: sts64.png
+SHA1-Digest: yXQqf/iScKnnZq+t4Yu5mB4w6i0=
+
+Name: plugin.properties
+SHA1-Digest: YZp+rh2q+nwNNSk2g8b8NJ57T+8=
+
+Name: about.ini
+SHA1-Digest: eM4+vvenlPcGchFOWkb3N92+Ems=
+
+Name: content/standby.xhtml
+SHA1-Digest: yw08YUiuVxPo45VL1NCZrgyPlxw=
+
+Name: sts48.png
+SHA1-Digest: AKfhCG4mZEvDc7u98t39AXSbwjA=
+
+Name: introContent.xml
+SHA1-Digest: /EZS82T9rm3u2SPzH0X1cyB1teU=
+
+Name: content/background.png
+SHA1-Digest: RPWCbFFNIv3FbV6E7gCXdYZzZTw=
+
+Name: org/springsource/sts/internal/splash/VersionDisplayingSplashHand
+ ler$1.class
+SHA1-Digest: M/6UVpkju1xxk9/Q86HC8S3kWjk=
+
+Name: content/root.xhtml
+SHA1-Digest: 0QtlbY1xjhKk+1+Po1Mt5QVP7YI=
+
+Name: about.properties
+SHA1-Digest: jwNMX5DuxDXRc0MAozOA3dwrfeM=
+
+Name: plugin.xml
+SHA1-Digest: q5/benl8CH5BbHKYRj6jAF0Mi/U=
+
+Name: content/new.png
+SHA1-Digest: GALiowZB2y8mwTjJ6X2J3Y/Sn2k=
+
+Name: content/shared.css
+SHA1-Digest: BDeErudW3Bw2GctHxCf2Fg7DiKw=
+
+Name: sts.gif
+SHA1-Digest: bMm4T6ZpvRNRmk8vjgOH7ZAssac=
+
+Name: splash.bmp
+SHA1-Digest: ogsn52Gwo2iYg5xYc2ZC3Id9ORw=
+
